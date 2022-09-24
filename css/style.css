@@ -84,7 +84,7 @@ body {
 .main-index {
   color: #FFFFFF;
   background-color: #000000;
-  background-image: url("images/index-bg.jpg");
+  background-image: url("../img/index-bg.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
 }
@@ -92,7 +92,7 @@ body {
 .main-inner {
   color: #242424;
   background-color: #FBF7F4;
-  background-image: url("images/bg-noisy.png");
+  background-image: url("../img/bg-noisy.png");
 }
 
 /* List */
@@ -112,7 +112,7 @@ body {
 .index-columns {
   color: #242424;
   background-color: #FBF7F4;
-  background-image: url("images/bg-noisy.png");
+  background-image: url("../img/bg-noisy.png");
 }
 
 /* Services*/
@@ -203,7 +203,7 @@ body {
   font-weight: 700;
   color: #FFFFFF;
   background-color: #242424;
-  background-image: url("images/bg-noisy.png");
+  background-image: url("img/bg-noisy.png");
   background-repeat: repeat;
 }
 
